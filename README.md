@@ -1,14 +1,14 @@
 # VeLoCity-Skin-for-VLC
 Castom skin for VLC Player
 
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
 ## Introduction
 
 I believe that convenient UX and beautiful UI make our life better, it is no less important than a good view from the window or a good terrier. 
@@ -106,9 +106,25 @@ Features:
 
 
 
+## How to use these skins? 
+
+
+ 1. Put the downloaded VLT files in the following folder:
+
+    - On Windows: the skins folder in the VLC installation directory (e.g. C:\Program Files\VideoLAN\VLC\skins)
+    - On Linux/Unix: ~/.local/share/vlc/skins2
+
+ 2. Then open VLC Settings>Interface>Look and Feel. And choose "Use Castom skin". 
+    - You can choose skin already there in "Skin resource file"
+    - Or change it in VLC. Rightclicking somewhere on the program window and going to Interface>Select Skin>.
+
+ 3. Enjoy It. And check my following works on  twitter.com/dmtiir/  or  github.com/dmtiir  or  dribbble.com/dmtiir
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Enjoy It. And check my following works on  twitter.com/dmtiir/  or  github.com/dmtiir  or  dribbble.com/dmtiir  or  deviantart.com/dmtiir
 
+ ### PS. Skins do not work on Mac OS X! This is a limitation from VLC developers
 
 
