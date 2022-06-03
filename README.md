@@ -5,7 +5,7 @@ Castom skin for VLC Player
 
 
 
-###Introduction###
+##Introduction
 
 I believe that convenient UX and beautiful UI make our life better, it is no less important than a good view from the window or a good terrier. 
 We look at the screen of our computers a lot of the time, it's a big part of our lives. I want people to get aesthetic pleasure from UX and UI.
@@ -14,7 +14,7 @@ And of course that HCG was easy intuitive logical and functional.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-VeLoCity skin for VLC.
+##VeLoCity skin for VLC.
 
 Features:
 - Built-in playlist.
@@ -26,7 +26,7 @@ Features:
 - Large spaces for dragging the window with a small overall interface size.
 
 
-Unfortunately, there are limitations for VLC themes. And I'm not able to fix them. Some things I would like to add, but at the moment it is not possible:
+####Unfortunately, there are limitations for VLC themes. And I'm not able to fix them. Some things I would like to add, but at the moment it is not possible:
 - Skins does not work on Mac OS.
 - You cannot drag window using the video zone.
 - You can not start and stop the video by clicking on the video zone.
@@ -34,6 +34,21 @@ Unfortunately, there are limitations for VLC themes. And I'm not able to fix the
 - You can't drag window over the titles and text zones.
 - You cannot change the window size to the top or to the left.
 - You cannot change the window size to the right without making an additional border.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+![VeLoCity_prev-01](https://user-images.githubusercontent.com/106811960/171930023-1bdd0ab1-9c92-44df-9155-47c4285e3b40.gif)
+
+
+
+
+
+![VeLoCity_prev-02](https://user-images.githubusercontent.com/106811960/171930043-db982479-0c98-432a-82e0-00c28682d32b.gif)
+
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
