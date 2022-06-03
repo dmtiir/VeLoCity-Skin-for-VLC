@@ -5,6 +5,10 @@ Castom skin for VLC Player
 
 
 
+
+
+
+
 ## Introduction
 
 I believe that convenient UX and beautiful UI make our life better, it is no less important than a good view from the window or a good terrier. 
@@ -38,7 +42,7 @@ Features:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Features.
+## UX/UI features.
 
 ![VeLoCity_prev-01](https://user-images.githubusercontent.com/106811960/171930023-1bdd0ab1-9c92-44df-9155-47c4285e3b40.gif)
 
@@ -50,25 +54,55 @@ Features:
 
 
 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Multiple color schemes. 
 
+
+
+
+### DeepBlue
 
 ![VeLoCity DeepBlue Preview](https://user-images.githubusercontent.com/106811960/171930628-d1b29df5-9042-4715-9ffd-0add49a81bb3.png)
 
 
 
+
+
+### Dark
+
 ![VeLoCity Dark Preview](https://user-images.githubusercontent.com/106811960/171930676-22b97c27-bc5c-4196-b9c8-917c0d5d2a35.png)
 
 
 
+
+
+
+### Dark Mist
+
 ![VeLoCity Dark Mist Preview](https://user-images.githubusercontent.com/106811960/171930713-09547fe0-ec17-4b6d-9320-d866c7682ca9.png)
 
+
+
+
+
+### Light
+ 
 
 ![VeLoCity Light Preview](https://user-images.githubusercontent.com/106811960/171930748-cb06a5cf-ba29-482a-9981-31352de90a13.png)
 
 
 
+
+
+### Light Mist
+
+
 ![VeLoCity Light Mist Preview](https://user-images.githubusercontent.com/106811960/171930779-16538f81-e34f-4e28-a57a-cec141472943.png)
+
+
 
 
 
