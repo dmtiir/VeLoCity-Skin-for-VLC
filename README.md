@@ -8,7 +8,7 @@ Castom skin for VLC Player
 .
 .
 .
-.
+.................
 ## Introduction
 
 I believe that convenient UX and beautiful UI make our life better, it is no less important than a good view from the window or a good terrier. 
@@ -58,7 +58,7 @@ Features:
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Multiple color schemes. 
+## Multiple color schemes:
 
 
 
