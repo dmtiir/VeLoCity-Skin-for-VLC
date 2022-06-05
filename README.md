@@ -34,7 +34,7 @@ And of course that HCG was easy intuitive logical and functional.
 
 Features:
 - Built-in playlist.
-- Mini window Layout spetial for audio (files and internet radio).
+- Mini window Layout special for audio (files and internet radio).
 - Light appearance, but functionality.
 - Small and functionality fullscreen Layout.
 - Multiple color schemes (installed separately).
@@ -126,7 +126,7 @@ Features:
     - On Windows: the skins folder in the VLC installation directory (e.g. C:\Program Files\VideoLAN\VLC\skins)
     - On Linux/Unix: ~/.local/share/vlc/skins2
 
- 2. Then open VLC Settings>Interface>Look and Feel. And choose "Use Castom skin". 
+ 2. Then open VLC Settings>Interface>Look and Feel. And choose "Use Custom skin". 
     - You can choose skin already there in "Skin resource file"
     - Or change it in VLC. Rightclicking somewhere on the program window and going to Interface>Select Skin>.
 
